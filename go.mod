@@ -1,1 +1,1 @@
-module "word-table"
+module "github.com/muzin/word-table"
