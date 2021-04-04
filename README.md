@@ -4,7 +4,7 @@
 
 
 example:
-![screenshot](./img/img.png)
+![screenshot](https://mithub.oss-cn-beijing.aliyuncs.com/data/files/wordtable/img.png)
 
 
 # 1. Install & Import
@@ -65,7 +65,7 @@ wordTable.Println()
 ```
 
 Run Result:
-![runresult](./img/img.png)
+![runresult](https://mithub.oss-cn-beijing.aliyuncs.com/data/files/wordtable/img.png)
 
 
 
