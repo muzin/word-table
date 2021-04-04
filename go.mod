@@ -1,1 +1,1 @@
-module "wordtable"
+module "word-table"
